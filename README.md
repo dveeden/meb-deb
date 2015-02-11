@@ -3,7 +3,7 @@ Create a Debian/Ubuntu .deb package from the MySQL Enterprise Backup tarball
 Requirements
 ============
 
-* MySQL Enterprise Backup tarballe
+* MySQL Enterprise Backup tarball
   * [eDelivery](https://edelivery.oracle.com)
   * [MyOracle Support](https://support.oracle.com)
 * make
