@@ -22,3 +22,5 @@ The files are installed under /opt/mysql (e.g. /opt/mysql/meb-3.11.1-ubuntu12.04
 
 This is to allow multiple versions to be installed on the same machine,
 wich can be needed to restore old backups.
+
+The after-install script uses update-alternatives to create /usr/bin/mysqlbackup
