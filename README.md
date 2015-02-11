@@ -1,5 +1,7 @@
 Create a Debian/Ubuntu .deb package from the MySQL Enterprise Backup tarball
 
+There is a feature request for official deb packages: [MySQL Bug #75633](https://bugs.mysql.com/bug.php?id=75633)
+
 Requirements
 ============
 
